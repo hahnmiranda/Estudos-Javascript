@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curso de Javascript!</title>
+    </head>
+    <body>
+
+        <script>
+
+            var nome = "Guilherme";
+            var idade = 33, peso = 70;
+            var humano = true;
+
+            var times = ['Inter', 'Gremio', 'Atletico'];
+
+            var pessoa = {
+                nome: "Guilherme",
+                idade: idade,
+                peso: peso,
+                humano: true
+            };
+
+            // console.log(times[0]);
+            // console.log(pessoa.peso);
+
+            function soma(n1, n2) {
+                var res = n1 + n2;
+                return res;
+            }
+
+            function positivo(v) {
+                if (v>=0) {
+                    console.log("Positivo");
+                }
+                else {
+                    console.log("Negativo");
+                }
+            }
+
+            // console.log(soma(1, 2));
+            // positivo(soma(1, -1));
+
+            var sexo = 'F';
+
+            var retorno = (sexo == 'M') ? 'Macho' : 'Fêmea';
+            // console.log(retorno);
+
+            for (var i = 0; i < 10; i++) {
+                // console.log(i);
+            }
+
+            j = 12353422;
+            while(j>50) {
+                // console.log(j);
+                j /= 5;
+            }
+
+            function exibeAlgo() {
+                console.log("Opa, e aí!?!");
+            }
+
+            // setInterval(exibeAlgo, 2000);
+            // setTimeout(exibeAlgo, 6000);
+        </script>
+    </body>
+</html>
