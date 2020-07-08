@@ -12,3 +12,7 @@ Manipulando os elementos do html no Javascript
 **03-07-2020**
 
 CRUD lista
+
+**08-07-2020**
+
+Aprendendo a utilizar Javascript de forma assincrona e resolvendo alguns desafios
