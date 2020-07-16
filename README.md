@@ -16,3 +16,10 @@ CRUD lista
 **08-07-2020**
 
 Aprendendo a utilizar Javascript de forma assincrona e resolvendo alguns desafios
+
+**16-07-2020**
+
+Estudos em ES6, podendo programar Javascript com Orientação a Objetos.
+
+Para instalação de todos os pacotes e bibliotecas necessárias, visitar o link abaixo:
+https://app.rocketseat.com.br/node/curso-java-script-es-6/group/conceitos/lesson/instalando-node-and-yarn
